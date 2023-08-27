@@ -37,7 +37,7 @@ Projeto desenvolvido para buscar e completar um endereço usando o CEP, utilizan
 
 ## 🔖 Layout
 
-Caso queira você pode navegar pelo projeto através [DESSE LINK](https://evertonldesouza.github.io/autocompletar_endereco_pelo_cep/).
+Caso queira você pode navegar pelo projeto através [DESSE LINK](https://www.evertondesouza.dev.br/AutoCompletar_Endereco_pelo_CEP/).
 
 <br>
 
